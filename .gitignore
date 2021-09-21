@@ -4,9 +4,13 @@
 # .tfstate files
 *.tfstate
 *.tfstate.*
+peering.tf
 
 # Crash log files
 crash.log
+
+#lic files
+./assets/lic/*
 
 # Ignore any .tfvars files that are generated automatically for each Terraform run. Most
 # .tfvars files are managed as part of configuration and so should be included in
