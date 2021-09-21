@@ -11,7 +11,7 @@
             "count": 1,
             "dnsPrefix": "xomoutboundpoc",
             "vmSize": "Standard_D2_v3",
-            "vnetSubnetId": "/subscriptions/cc0d730a-9395-4c66-8a74-efdfc1b05670/resourceGroups/xom-Outbound/providers/Microsoft.Network/virtualNetworks/xom-Outbound-spoke-eastus2/subnets/xom-Outbound-subnet-k8s_master",
+            "vnetSubnetId": "/subscriptions/xxxxxxxxxxxx/resourceGroups/xxxxxxxx/providers/Microsoft.Network/virtualNetworks/xom-Outbound-spoke-eastus2/subnets/xom-Outbound-subnet-k8s_master",
             "firstConsecutiveStaticIP": "10.86.1.4"
         },
         "agentPoolProfiles": [
@@ -19,7 +19,7 @@
                 "name": "nodepool1",
                 "count": 2,
                 "vmSize": "Standard_D2_v3",
-                "vnetSubnetId": "/subscriptions/cc0d730a-9395-4c66-8a74-efdfc1b05670/resourceGroups/xom-Outbound/providers/Microsoft.Network/virtualNetworks/xom-Outbound-spoke-eastus2/subnets/xom-Outbound-subnet-K8s_nodes",
+                "vnetSubnetId": "/subscriptions/xxxxxxxxxxxxx/resourceGroups/xxxxxxxxxxxx/providers/Microsoft.Network/virtualNetworks/xom-Outbound-spoke-eastus2/subnets/xom-Outbound-subnet-K8s_nodes",
                 "availabilityProfile": "AvailabilitySet"
             }
         ],
