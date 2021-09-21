@@ -1,5 +1,5 @@
 
-azsubscriptionid = "cc0d730a-9395-4c66-8a74-efdfc1b05670"
+azsubscriptionid = ""
 
 project = "Outbound"
 TAG     = "xom"
@@ -77,11 +77,11 @@ elbprob = "8008"
 
 
 //==============================
-username = "mremini"
-password =  "Fortinet20217!"
+username = "useryourown"
+password =  "useyourown"
 
 
 //==============================
 
-fgttfaccess = "20.75.27.29"
-fgttftoken =  "00tzzk391p114yGxrnbsGwQmcknnbn"
+fgttfaccess = "x.x.x.x"
+fgttftoken =  "xxxxxxxxxxxxxxxxxxxxx"
