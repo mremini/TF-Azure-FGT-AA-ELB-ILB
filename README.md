@@ -1,1 +1,4 @@
-# TF-Azure-FGT-AA-ELB-ILB
+# Azure FOrtiGate Active/Active
+
+![clone](images/FGT-A-A-A.png)
+
